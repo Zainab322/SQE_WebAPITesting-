@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-23T20:07:24 PKT" name="Default suite" finished-at="2024-11-23T20:07:29 PKT" duration-ms="5022">
+  <suite started-at="2024-11-23T20:44:11 PKT" name="Default suite" finished-at="2024-11-23T20:44:17 PKT" duration-ms="5068">
     <groups>
     </groups>
-    <test started-at="2024-11-23T20:07:24 PKT" name="Default test" finished-at="2024-11-23T20:07:29 PKT" duration-ms="5022">
-      <class name="Test_API.TestGet">
-        <test-method signature="TC1()[pri:0, instance:Test_API.TestGet@4c1f22f3]" started-at="2024-11-23T20:07:24 PKT" name="TC1" finished-at="2024-11-23T20:07:29 PKT" duration-ms="4655" status="PASS">
+    <test started-at="2024-11-23T20:44:11 PKT" name="Default test" finished-at="2024-11-23T20:44:17 PKT" duration-ms="5068">
+      <class name="Test_API2.TestPutUsers">
+        <test-method signature="TC3()[pri:0, instance:Test_API2.TestPutUsers@4310d43]" started-at="2024-11-23T20:44:12 PKT" name="TC3" finished-at="2024-11-23T20:44:17 PKT" duration-ms="5008" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TC1 -->
-      </class> <!-- Test_API.TestGet -->
+        </test-method> <!-- TC3 -->
+      </class> <!-- Test_API2.TestPutUsers -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
